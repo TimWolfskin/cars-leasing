@@ -363,3 +363,31 @@ a {
   display: block;
   margin: 0 auto;
 }
+
+.importnant {
+  padding-bottom: 150px;
+}
+
+.importnant__title {
+  margin-bottom: 20px;
+}
+
+.importnant__text {
+  max-width: 580px;
+  margin: 0 auto 50px;
+}
+
+.importnant__list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.importnant__item {
+}
+
+.importnant__item-img {
+  margin-bottom: 20px;
+}
+
+.importnant__item-text {
+}
